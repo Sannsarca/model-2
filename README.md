@@ -6,7 +6,10 @@ To use this progect on your computer
 3. Download other files
 
 ## Description
-1. 'heart-disease.csv' is a database we use to train our model
-2. 'Supervised Learning - Classification - Heart Disease.ipynb' step-by-step notebook
+1. 'Supervised Learning - Classification - Heart Disease.ipynb' step-by-step notebook
+2. 'data' folder is for data
+
+All data you can download from https://www.kaggle.com/competitions/bluebook-for-bulldozers/overview/prizes .
+For proper work unzip data you download into 'data' folder
 
 ## Download and test it!
