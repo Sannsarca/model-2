@@ -1,4 +1,4 @@
-## Supervised Learning - Classification
+## Supervised Learning - Regression
 
 To use this progect on your computer
 1. Download 'environment.yml'
