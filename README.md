@@ -9,7 +9,7 @@ To use this progect on your computer
 1. 'Supervised Learning - Classification - Heart Disease.ipynb' step-by-step notebook
 2. 'data' folder is for data
 
-All data you can download from https://www.kaggle.com/competitions/bluebook-for-bulldozers/overview/prizes .
+All data you can download from https://www.kaggle.com/competitions/bluebook-for-bulldozers/data .
 For proper work unzip data you download into 'data' folder
 
 ## Download and test it!
